@@ -1,0 +1,338 @@
+uid,laboratoryName,date,siteID,technicianID,observerInstitutionName,evaluationMethod,evaluationScore
+"3167ee01-4116-4119-a41b-e74267dd347c","Bird Conservancy of the Rockies","2019",,"DSAND","Bird Conservancy of the Rockies","protocolQuiz",100
+"6f13906b-2f59-4511-8dc9-06c804c9f118","Bird Conservancy of the Rockies","2019",,"DSAND","Bird Conservancy of the Rockies","startSeasonBirdQuiz",92
+"6462e5b5-3271-416d-be0b-0ff51665a188","Bird Conservancy of the Rockies","2019",,"RFISC","Kingfischer Consulting","protocolQuiz",100
+"a051f0cb-a738-44f2-8774-cb468411f066","Bird Conservancy of the Rockies","2019",,"RFISC","Kingfischer Consulting","endSeasonBirdQuiz",100
+"8ddd63fd-a8f9-4c90-a21b-975e3f69219b","Bird Conservancy of the Rockies","2019",,"ENEIP","Kingfischer Consulting","startSeasonBirdQuiz",100
+"84c98d78-c609-4471-86ca-8a5c2464c146","Bird Conservancy of the Rockies","2019",,"DTONN","Bird Conservancy of the Rockies","startSeasonBirdQuiz",100
+"cfb26619-956b-4d95-9382-cf635bd9a019","Bird Conservancy of the Rockies","2019",,"DTONN","Bird Conservancy of the Rockies","endSeasonBirdQuiz",96
+"6f4eb10b-91c0-479f-8f6d-4d1e3fcd3719","Bird Conservancy of the Rockies","2019",,"DTONN","Bird Conservancy of the Rockies","protocolQuiz",100
+"a22dc759-f307-4903-99d7-272f1b8c16c6","Bird Conservancy of the Rockies","2019",,"ENEIP","Kingfischer Consulting","protocolQuiz",100
+"c5085265-219a-4946-843b-7fdaac30b1eb","Bird Conservancy of the Rockies","2019",,"DTONN","Bird Conservancy of the Rockies","protocolQuiz",100
+"c326998b-6c19-4667-a574-a156b9650dec","Bird Conservancy of the Rockies","2019",,"CEBER","Unaffiliated","protocolQuiz",95
+"03cfe63e-bec5-4883-9133-fad988419960","Bird Conservancy of the Rockies","2019",,"CEBER","Unaffiliated","midSeasonBirdQuiz",96
+"e5063b7e-33d0-467a-bc0a-609eae8a4bb9","Bird Conservancy of the Rockies","2019",,"DTONN","Bird Conservancy of the Rockies","protocolQuiz",100
+"e6793927-14fa-4346-8ade-e60fe29041e1","Bird Conservancy of the Rockies","2019",,"DTONN","Bird Conservancy of the Rockies","startSeasonBirdQuiz",100
+"b4e12416-dd92-4cfb-953b-93819d65cc71","Bird Conservancy of the Rockies","2019",,"NPUSA","Bird Conservancy of the Rockies","protocolQuiz",100
+"0fdc6c2f-1633-4a67-9534-d5771695b231","Bird Conservancy of the Rockies","2019",,"NPUSA","Bird Conservancy of the Rockies","startSeasonBirdQuiz",98
+"c4aa9496-66e6-4639-9d17-66d2e201970b","Bird Conservancy of the Rockies","2019",,"CEBER","Unaffiliated","endSeasonBirdQuiz",92
+"ab041617-4b42-4155-bb9e-5dac08b25800","Bird Conservancy of the Rockies","2019",,"CEBER","Unaffiliated","protocolQuiz",95
+"cffe4366-ef94-418a-aa35-aeabd140474e","Bird Conservancy of the Rockies","2019",,"CEBER","Unaffiliated","endSeasonBirdQuiz",96
+"b8f211de-466a-4019-a7b8-4e34ddb5b82a","Bird Conservancy of the Rockies","2019",,"CEBER","Unaffiliated","protocolQuiz",95
+"80fbe70c-25d4-4141-8cf8-d225784549c5","Bird Conservancy of the Rockies","2019",,"BDEMO","Bird Conservancy of the Rockies","startSeasonBirdQuiz",92
+"6c40d6da-f6bd-4d6b-bacc-149ab9e39646","Bird Conservancy of the Rockies","2019",,"BDEMO","Bird Conservancy of the Rockies","protocolQuiz",100
+"b4cfd6ce-d848-4e82-9901-bf7c415f1fdf","Bird Conservancy of the Rockies","2019",,"GREGL","Regalis LLC","protocolQuiz",100
+"0f64e457-15d2-47c7-aaa8-fa9108c2506a","Bird Conservancy of the Rockies","2019",,"GREGL","Regalis LLC","startSeasonBirdQuiz",95
+"221994a5-9c85-4dcf-94fa-af1209e5a76b","Bird Conservancy of the Rockies","2019",,"GREGL","Regalis LLC","startSeasonBirdQuiz",96
+"38c024e3-4fdc-4d0a-9cae-b16428a2653c","Bird Conservancy of the Rockies","2019",,"GREGL","Regalis LLC","protocolQuiz",100
+"68c8ceaf-374d-48dc-8c60-1345769f10ab","Bird Conservancy of the Rockies","2019",,"FBEAU","Regalis LLC","protocolQuiz",90
+"3cffa2b1-36a3-4716-9323-8268b2d959f9","Bird Conservancy of the Rockies","2019",,"FBEAU","Regalis LLC","protocolQuiz",90
+"c0548585-744f-47e2-bc48-d9142fb5cfea","Bird Conservancy of the Rockies","2019",,"FBEAU","Regalis LLC","startSeasonBirdQuiz",92
+"f672d0ad-38a1-4472-b48a-df77e48b47d2","Bird Conservancy of the Rockies","2019",,"FBEAU","Regalis LLC","startSeasonBirdQuiz",100
+"8de2a0e6-fa29-405b-85bc-1699c0157706","Bird Conservancy of the Rockies","2019",,"JRIDD","University of Wisconsin - Stevens Point","protocolQuiz",89
+"deccf06d-ea45-4577-a5f1-9de8a42700a2","Bird Conservancy of the Rockies","2019",,"JRIDD","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",96
+"897448cb-c16b-41da-a24f-10dfbb643e1b","Bird Conservancy of the Rockies","2019",,"RFISC","Kingfischer Consulting","startSeasonBirdQuiz",100
+"ee4f13a1-13bc-44b1-9f9d-b7fbdab8d01a","Bird Conservancy of the Rockies","2019",,"RFISC","Kingfischer Consulting","protocolQuiz",100
+"c03cf686-d55d-4140-ad77-48016c029e61","Bird Conservancy of the Rockies","2019",,"WFREE","Massachusetts Audubon Society","startSeasonBirdQuiz",92
+"a0b9ab3f-f1ea-47c4-8216-1ba7e0ad4544","Bird Conservancy of the Rockies","2019",,"WFREE","Massachusetts Audubon Society","protocolQuiz",96
+"cd742ba9-c7d2-44ef-9366-01cae3aef244","Bird Conservancy of the Rockies","2019",,"WFREE","Massachusetts Audubon Society","endSeasonBirdQuiz",92
+"7922a7cc-846f-4d8c-a544-663ffb936c67","Bird Conservancy of the Rockies","2019",,"WFREE","Massachusetts Audubon Society","protocolQuiz",96
+"bb3caefd-d49b-4eec-ac33-52af0ed42d5d","Bird Conservancy of the Rockies","2019",,"MMYLI","University of Wisconsin - Stevens Point","protocolQuiz",79
+"52265804-a1ae-4703-9e92-50d36cc7cbda","Bird Conservancy of the Rockies","2019",,"MMYLI","University of Wisconsin - Stevens Point","protocolQuiz",79
+"b3b9dac6-945e-484e-9d72-3d680d10070f","Bird Conservancy of the Rockies","2019",,"MMYLI","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",92
+"37fac265-d426-41d8-96fa-a5f56ea03418","Bird Conservancy of the Rockies","2019",,"MMYLI","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",92
+"585c8a5d-9693-4086-824f-713523e55ea1","Bird Conservancy of the Rockies","2019",,"GPLAZ","Unaffiliated","protocolQuiz",96
+"0d88d0a3-324b-4191-9a3d-4ab0473347ab","Bird Conservancy of the Rockies","2019",,"IRC","Unaffiliated","startSeasonBirdQuiz",96
+"e133a20f-c49b-4fef-8307-a70fc946d174","Bird Conservancy of the Rockies","2019",,"GPLAZ","Unaffiliated","startSeasonBirdQuiz",92
+"bf805673-a237-42d7-a23c-c7a8aba578c9","Bird Conservancy of the Rockies","2019",,"GPLAZ","Unaffiliated","startSeasonBirdQuiz",96
+"f28a0f46-ed31-44d0-92ee-61bf8051b019","Bird Conservancy of the Rockies","2019",,"GPLAZ","Unaffiliated","protocolQuiz",96
+"0d853173-a2a5-4754-bbb1-cf0970794546","Bird Conservancy of the Rockies","2019",,"IRC","Unaffiliated","protocolQuiz",96
+"6a854667-0029-4ec9-9846-1e22c79b2d0e","Bird Conservancy of the Rockies","2019",,"EFN","Unaffiliated","startSeasonBirdQuiz",96
+"433933e9-78a1-4123-b3b9-cc66879874ac","Bird Conservancy of the Rockies","2019",,"EFN","Unaffiliated","protocolQuiz",96
+"d13073c9-f485-4bc3-9816-3762a903ef8a","Bird Conservancy of the Rockies","2019",,"JRIDD","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",92
+"a4a0b26b-eb2b-4269-b20b-f90c759335cb","Bird Conservancy of the Rockies","2019",,"JRIDD","University of Wisconsin - Stevens Point","protocolQuiz",89
+"27a7d054-f1cc-4f9d-ae87-cab6194c3c3f","Bird Conservancy of the Rockies","2019",,"LDIEN","Unaffiliated","protocolQuiz",90
+"3a08357f-239b-4a5c-8d15-41a25b1eb6b9","Bird Conservancy of the Rockies","2019",,"LDIEN","Unaffiliated","protocolQuiz",90
+"858157d5-a99b-4396-89d3-015157ac01fd","Bird Conservancy of the Rockies","2019",,"JDIAZ","Unaffiliated","protocolQuiz",96
+"b80f18e4-2d47-4058-98ae-f8a626d18b99","Bird Conservancy of the Rockies","2019",,"JDIAZ","Unaffiliated","startSeasonBirdQuiz",92
+"6977c43e-f089-49ef-83c9-2ef4d40e7314","Bird Conservancy of the Rockies","2019",,"LDIEN","Unaffiliated","startSeasonBirdQuiz",100
+"9d0f64b3-2799-41f3-bdc6-2e795435e600","Bird Conservancy of the Rockies","2019",,"LDIEN","Unaffiliated","startSeasonBirdQuiz",100
+"cc7d194c-b9fd-40dd-b3f5-e76cca7bf7d7","Bird Conservancy of the Rockies","2019",,"JDIAZ","Unaffiliated","startSeasonBirdQuiz",96
+"2766a105-19a3-4daf-b6e5-3d2524dd88b6","Bird Conservancy of the Rockies","2019",,"JDIAZ","Unaffiliated","protocolQuiz",96
+"9d397133-9cf0-41f3-ac4d-6ddb151785cf","Bird Conservancy of the Rockies","2019",,"IRC","Unaffiliated","startSeasonBirdQuiz",92
+"4438e878-bb2c-42af-b830-c64d35b38e1c","Bird Conservancy of the Rockies","2019",,"IRC","Unaffiliated","protocolQuiz",96
+"3624d92f-9ad1-42d0-b80d-f7140c2b7393","Bird Conservancy of the Rockies","2019",,"LDIEN","Unaffiliated","protocolQuiz",90
+"1f78cdb5-9357-4894-8bf6-4be4cb2b1793","Bird Conservancy of the Rockies","2019",,"LDIEN","Unaffiliated","startSeasonBirdQuiz",96
+"8024f8b7-e10d-4a1d-9269-be1073ac81a0","Bird Conservancy of the Rockies","2019",,"SKURT","Conservation Management Institute at Virginia Tech University","startSeasonBirdQuiz",92
+"f9cb347a-fdcc-4ca6-add1-72be155b147d","Bird Conservancy of the Rockies","2019",,"SKURT","Conservation Management Institute at Virginia Tech University","protocolQuiz",96
+"bfdde6ed-9532-495d-9288-5d16693f9f23","Bird Conservancy of the Rockies","2019",,"LDERD","Bird Conservancy of the Rockies","protocolQuiz",100
+"37d724b1-2eef-4b2f-b107-9be935298504","Bird Conservancy of the Rockies","2019",,"LDERD","Bird Conservancy of the Rockies","startSeasonBirdQuiz",100
+"a122ad37-14d6-47ff-ba4d-a659b619ca65","Bird Conservancy of the Rockies","2019",,"LDERD","Bird Conservancy of the Rockies","protocolQuiz",100
+"2ec6cb4a-9961-403d-b99a-c1c08db01a01","Bird Conservancy of the Rockies","2019",,"LDERD","Bird Conservancy of the Rockies","startSeasonBirdQuiz",96
+"f837c2f1-bd5b-4fdb-bb54-3c90d1fda047","Bird Conservancy of the Rockies","2019",,"LDERD","Bird Conservancy of the Rockies","protocolQuiz",100
+"ab55affa-5ab1-4422-8430-84946de83ec3","Bird Conservancy of the Rockies","2019",,"LDERD","Bird Conservancy of the Rockies","startSeasonBirdQuiz",96
+"e4bfa95a-d8f5-4eeb-967b-dde5f690ba0c","Bird Conservancy of the Rockies","2019",,"LDERD","Bird Conservancy of the Rockies","protocolQuiz",100
+"acc2c957-cc04-424e-b23f-0e54742ef394","Bird Conservancy of the Rockies","2019",,"LDERD","Bird Conservancy of the Rockies","startSeasonBirdQuiz",96
+"c4f11054-03fa-4024-a2fb-bc0db02b27e8","Bird Conservancy of the Rockies","2019",,"JDIEN","Unaffiliated","startSeasonBirdQuiz",100
+"ff94a55c-b03a-40e7-aa9a-bed0cb9cafeb","Bird Conservancy of the Rockies","2019",,"JDIEN","Unaffiliated","protocolQuiz",90
+"571f032f-d801-47c4-8024-a7bd1ab006cd","Bird Conservancy of the Rockies","2019",,"JDIEN","Unaffiliated","startSeasonBirdQuiz",92
+"8a384829-40b6-4d84-be24-6eee03c15b7c","Bird Conservancy of the Rockies","2019",,"JDIEN","Unaffiliated","startSeasonBirdQuiz",96
+"ed2b6c41-97f0-4ef3-a8ef-194154a67c07","Bird Conservancy of the Rockies","2019",,"JDIEN","Unaffiliated","protocolQuiz",90
+"24c8c8ed-a2d6-4e14-8f4a-9402d0226c80","Bird Conservancy of the Rockies","2019",,"JDIEN","Unaffiliated","protocolQuiz",90
+"18bfc9d6-02c3-4d29-96e1-845dbfc3266f","Bird Conservancy of the Rockies","2019",,"JCULL","University of Wisconsin - Stevens Point","protocolQuiz",79
+"0a1f281c-dc19-407a-9e24-6350833adacb","Bird Conservancy of the Rockies","2019",,"JCULL","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",100
+"a7c38e0f-2570-41d9-a60a-9ce488838e09","Bird Conservancy of the Rockies","2019",,"CSONA","Bird Conservancy of the Rockies","protocolQuiz",100
+"7855a3aa-d60a-41e8-aee1-38c1ce839c4c","Bird Conservancy of the Rockies","2019",,"JCULL","University of Wisconsin - Stevens Point","protocolQuiz",79
+"33cf20dd-41fa-43d6-86d8-49ffb0bbecbd","Bird Conservancy of the Rockies","2019",,"JCULL","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",96
+"aaa4b762-8128-4427-bcce-2877a6ce0e67","Bird Conservancy of the Rockies","2019",,"TBELL","Smithsonian Conservation Biology Institution","protocolQuiz",100
+"b3f44f50-beda-40de-b1b3-66f2a3f7f5af","Bird Conservancy of the Rockies","2019",,"TBELL","Smithsonian Conservation Biology Institution","startSeasonBirdQuiz",96
+"bf231373-7b05-46a8-9201-813b05af3673","Bird Conservancy of the Rockies","2019",,"CSONA","Bird Conservancy of the Rockies","startSeasonBirdQuiz",96
+"de862fb3-6e8d-468a-859d-acb5d045b0a6","Bird Conservancy of the Rockies","2019",,"LDIEN","Unaffiliated","protocolQuiz",90
+"0221d768-fc1d-422b-928f-54de802429e2","Bird Conservancy of the Rockies","2019",,"LDIEN","Unaffiliated","startSeasonBirdQuiz",100
+"2a793b93-84b7-4126-982b-160939799af1","Bird Conservancy of the Rockies","2019",,"LBRAD","Bird Conservancy of the Rockies","protocolQuiz",90
+"89c9a063-194d-47ca-9750-c07df98874b2","Bird Conservancy of the Rockies","2019",,"LBRAD","Bird Conservancy of the Rockies","startSeasonBirdQuiz",92
+"5ade59c0-b56c-4578-b94d-2b5b051183e2","Bird Conservancy of the Rockies","2019",,"JDIEN","Unaffiliated","startSeasonBirdQuiz",92
+"ecadab4a-4397-476f-8c04-911dd1310fec","Bird Conservancy of the Rockies","2019",,"JDIEN","Unaffiliated","protocolQuiz",90
+"7e425a71-eb7b-4042-b0e0-1bcdef300df8","Bird Conservancy of the Rockies","2019",,"GREGL","Regalis LLC","protocolQuiz",100
+"82840144-8b9f-4317-b147-a1c5c510b101","Bird Conservancy of the Rockies","2019",,"DBOLT","Smithsonian Conservation Biology Institution","startSeasonBirdQuiz",92
+"8cdf73b7-42e5-49f3-8a5a-8e16bb2fed18","Bird Conservancy of the Rockies","2019",,"GREGL","Regalis LLC","startSeasonBirdQuiz",100
+"525fff99-e0c5-44dc-b7c2-b75d3d5d2911","Bird Conservancy of the Rockies","2019",,"DBOLT","Smithsonian Conservation Biology Institution","startSeasonBirdQuiz",92
+"660bd615-bbe5-4b0c-978f-31f9ad5ceb53","Bird Conservancy of the Rockies","2019",,"DBOLT","Smithsonian Conservation Biology Institution","protocolQuiz",100
+"97b60322-b1da-4dd4-a674-64695c180b1c","Bird Conservancy of the Rockies","2019",,"GREGL","Regalis LLC","protocolQuiz",100
+"9d057669-7375-4717-895a-1058f62efef1","Bird Conservancy of the Rockies","2019",,"DBOLT","Smithsonian Conservation Biology Institution","protocolQuiz",100
+"ea284ee2-d259-4a25-9845-c3f94231b7fa","Bird Conservancy of the Rockies","2019",,"GREGL","Regalis LLC","startSeasonBirdQuiz",92
+"095020ea-bc03-4ef9-a8c4-5ab087922b76","Bird Conservancy of the Rockies","2019",,"JDIEN","Unaffiliated","startSeasonBirdQuiz",92
+"fd1cefc1-444a-46f4-9372-00f6c55398bc","Bird Conservancy of the Rockies","2019",,"LDIEN","Unaffiliated","startSeasonBirdQuiz",92
+"6bb8c3f4-8254-475b-b712-9fd3f5a96e89","Bird Conservancy of the Rockies","2019",,"LDIEN","Unaffiliated","protocolQuiz",90
+"d04095e0-a0e1-4d7c-b9b3-2477b74a5d00","Bird Conservancy of the Rockies","2019",,"JDIEN","Unaffiliated","protocolQuiz",90
+"f50eadea-7549-4b18-ad55-68551804c8fc","Bird Conservancy of the Rockies","2019",,"CBRIT","Unaffiliated","endSeasonBirdQuiz",92
+"22bdf320-e5b4-47b0-bae4-a8df80a1f0b2","Bird Conservancy of the Rockies","2019",,"CBRIT","Unaffiliated","protocolQuiz",97
+"f96fc01a-b9cf-48de-9f8e-1aae6ac8346d","Bird Conservancy of the Rockies","2019",,"RUBIA","Bird Conservancy of the Rockies","protocolQuiz",95
+"4ce48294-47e5-45a0-aaf9-daa61ed0a1a4","Bird Conservancy of the Rockies","2019",,"RUBIA","Bird Conservancy of the Rockies","startSeasonBirdQuiz",92
+"b46063d1-d2ba-40f2-b960-80e43f5736b4","Bird Conservancy of the Rockies","2019",,"MMCC","Bird Conservancy of the Rockies","startSeasonBirdQuiz",100
+"65317cee-c962-4f3a-a55b-2492580ac0f0","Bird Conservancy of the Rockies","2019",,"RUBIA","Bird Conservancy of the Rockies","protocolQuiz",95
+"842b40e4-9e5d-4d25-9e5b-46f2770d8973","Bird Conservancy of the Rockies","2019",,"MMCC","Bird Conservancy of the Rockies","protocolQuiz",95
+"a0f73cdf-81da-45de-8e0c-fc703ee275ce","Bird Conservancy of the Rockies","2019",,"RUBIA","Bird Conservancy of the Rockies","startSeasonBirdQuiz",96
+"efaf0c74-4707-465f-abcf-467a3b6e88b2","Bird Conservancy of the Rockies","2019",,"RUBIA","Bird Conservancy of the Rockies","protocolQuiz",95
+"a850b3fa-edb1-4f03-ba2d-dcf44e670035","Bird Conservancy of the Rockies","2019",,"RUBIA","Bird Conservancy of the Rockies","startSeasonBirdQuiz",92
+"bdc4583b-ec1b-4b0b-9778-2be965fb35a3","Bird Conservancy of the Rockies","2019",,"MMCC","Bird Conservancy of the Rockies","startSeasonBirdQuiz",92
+"0eece56b-03ed-41f8-942e-58e96e6f0b2a","Bird Conservancy of the Rockies","2019",,"MMCC","Bird Conservancy of the Rockies","protocolQuiz",95
+"026dd4ef-c8d8-4e9c-84e5-5dd767640265","Bird Conservancy of the Rockies","2019",,"JTIET","Point Blue Conservation Science","protocolQuiz",95
+"bede1c62-9e33-47c9-8103-dbe36b5571c4","Bird Conservancy of the Rockies","2019",,"JTIET","Point Blue Conservation Science","startSeasonBirdQuiz",96
+"54d688d4-078b-43a3-a8bd-0d04ae1af118","Bird Conservancy of the Rockies","2019",,"JTIET","Point Blue Conservation Science","protocolQuiz",95
+"f88e2745-4354-48cd-bcf6-d44cb363cebb","Bird Conservancy of the Rockies","2019",,"JTIET","Point Blue Conservation Science","endSeasonBirdQuiz",92
+"c1c5df75-5359-4a2b-8ba6-d556515fced8","Bird Conservancy of the Rockies","2019",,"JTIET","Point Blue Conservation Science","startSeasonBirdQuiz",92
+"39b5aa47-3454-4eeb-ba9e-58619b45e428","Bird Conservancy of the Rockies","2019",,"JTIET","Point Blue Conservation Science","protocolQuiz",95
+"9594118d-482e-40cd-923f-10d7091108c6","Bird Conservancy of the Rockies","2019",,"RADIN","Unaffiliated","protocolQuiz",100
+"d5b21e8e-22a6-405d-a551-4d6f58d925df","Bird Conservancy of the Rockies","2019",,"RADIN","Unaffiliated","startSeasonBirdQuiz",100
+"0d53ca9f-70ab-493e-ac6f-7d9e944ccac5","Bird Conservancy of the Rockies","2018",,"BIREK","Pteravia LLC","endSeasonBirdQuiz",96
+"62bb5f8d-0f8c-4204-b904-72bea417086c","Bird Conservancy of the Rockies","2018",,"BIREK","Pteravia LLC","protocolQuiz",100
+"01a7ddaa-d589-4c7a-9c65-7ec735aa5180","Bird Conservancy of the Rockies","2018",,"EFN","Unaffiliated","protocolQuiz",84
+"b3878060-5690-4fe2-8874-d98e59b8b8e3","Bird Conservancy of the Rockies","2018",,"IRC","Unaffiliated","protocolQuiz",98
+"d0f7936b-bd60-4ced-984e-d30e5114c68f","Bird Conservancy of the Rockies","2018",,"IRC","Unaffiliated","endSeasonBirdQuiz",96
+"f50de6c1-bea8-4ac2-a6e1-7d132f23f9f9","Bird Conservancy of the Rockies","2018",,"EFN","Unaffiliated","startSeasonBirdQuiz",96
+"f7456d09-b9d2-4796-9271-74dd67629343","Bird Conservancy of the Rockies","2018",,"TBELL","Smithsonian Conservation Biology Institution","protocolQuiz",79
+"921fbd22-7840-4617-820f-0f307fd58025","Bird Conservancy of the Rockies","2018",,"GMITC","Bird Conservancy of the Rockies","endSeasonBirdQuiz",100
+"197be1ac-4c73-4605-a5a5-7a1c44bfef6b","Bird Conservancy of the Rockies","2018",,"GMITC","Bird Conservancy of the Rockies","protocolQuiz",86
+"082f825f-0fb6-4257-ae43-b8b6079a8d2d","Bird Conservancy of the Rockies","2018",,"TBELL","Smithsonian Conservation Biology Institution","endSeasonBirdQuiz",92
+"a26045dc-d91f-4b89-aa94-3f0dcee8c1df","Bird Conservancy of the Rockies","2018",,"WFREE","Massachusetts Audubon Society","endSeasonBirdQuiz",100
+"87dd20d4-c05e-4f1f-81df-cbd8cc1f4b63","Bird Conservancy of the Rockies","2018",,"RFISC","Kingfischer Consulting","endSeasonBirdQuiz",92
+"9aab00b1-8499-4c19-bd4e-f76a5de8115f","Bird Conservancy of the Rockies","2018",,"CBRIT","Bird Conservancy of the Rockies","endSeasonBirdQuiz",92
+"3cbf5737-02e8-4bd7-b3b5-7e68d8e18d8e","Bird Conservancy of the Rockies","2018",,"RFISC","Kingfischer Consulting","endSeasonBirdQuiz",100
+"b1725cd9-64b7-46e9-9004-0381fd12e441","Bird Conservancy of the Rockies","2018",,"RFISC","Kingfischer Consulting","protocolQuiz",98
+"3dd11a18-6c19-44e5-9885-a9c3be29492a","Bird Conservancy of the Rockies","2018",,"CBRIT","Bird Conservancy of the Rockies","protocolQuiz",94
+"75e0cdfa-a327-4cab-9a2f-ec97b0c704ad","Bird Conservancy of the Rockies","2018",,"JDIAZ","Unaffiliated","protocolQuiz",89
+"5e051ff9-87d0-4108-9b8a-2645ba04a5c5","Bird Conservancy of the Rockies","2018",,"RFISC","Kingfischer Consulting","protocolQuiz",98
+"f5d9e6c8-6629-43cf-992b-afdab4d6fb5c","Bird Conservancy of the Rockies","2018",,"WFREE","Massachusetts Audubon Society","protocolQuiz",95
+"197bb018-410b-47ef-8016-96430fa1ecd7","Bird Conservancy of the Rockies","2018",,"JDIAZ","Unaffiliated","endSeasonBirdQuiz",92
+"31bea928-a967-4f57-8a82-bf63812490a1","Bird Conservancy of the Rockies","2018",,"RFISC","Kingfischer Consulting","endSeasonBirdQuiz",92
+"b58c81b7-9725-402a-83c3-3d966c86835f","Bird Conservancy of the Rockies","2018",,"RFISC","Kingfischer Consulting","protocolQuiz",98
+"ab8e20bd-7583-4450-9bcc-203b1981932c","Bird Conservancy of the Rockies","2018",,"GPLAZ","Unaffiliated","endSeasonBirdQuiz",100
+"e98be073-8099-4f84-85a8-0032918d2e75","Bird Conservancy of the Rockies","2018",,"GPLAZ","Unaffiliated","protocolQuiz",95
+"a906e873-f75a-4a4e-9e32-113064c6fed4","Bird Conservancy of the Rockies","2018",,"JFOX","Smithsonian Conservation Biology Institution","endSeasonBirdQuiz",92
+"4c4050cf-544b-4cb0-b3c1-c5267973c21c","Bird Conservancy of the Rockies","2018",,"JFOX","Smithsonian Conservation Biology Institution","protocolQuiz",90
+"f2ba5a6b-1018-4889-8cb1-2d3814e48fa9","Bird Conservancy of the Rockies","2018",,"BIREK","Pteravia LLC","protocolQuiz",100
+"3bcfc7a2-c009-4cd7-bf01-5ec4f19b6933","Bird Conservancy of the Rockies","2018",,"GREGL","Regalis LLC","protocolQuiz",100
+"810b78d4-74bd-4bad-a915-1f4be2731ce2","Bird Conservancy of the Rockies","2018",,"BSTUB","Bird Conservancy of the Rockies","protocolQuiz",100
+"938ff240-4773-4a35-a42d-f503e720a57d","Bird Conservancy of the Rockies","2018",,"GREGL","Regalis LLC","startSeasonBirdQuiz",92
+"caf43df6-01f1-4981-99c5-f4a21c71a58c","Bird Conservancy of the Rockies","2018",,"BSTUB","Bird Conservancy of the Rockies","startSeasonBirdQuiz",100
+"ea9dbe86-e595-400a-8518-a1ab0eefc77f","Bird Conservancy of the Rockies","2018",,"BIREK","Pteravia LLC","midSeasonBirdQuiz",100
+"6bfffa06-77d1-4e5e-9346-5b1fb0a8c5ea","Bird Conservancy of the Rockies","2018",,"WHERS","Point Blue Conservation Science","protocolQuiz",95
+"8206231c-f8dd-4edf-9f94-8338adfdf740","Bird Conservancy of the Rockies","2018",,"WHERS","Point Blue Conservation Science","startSeasonBirdQuiz",96
+"6d1dfc07-5e3d-48aa-a059-dd9111a3d53b","Bird Conservancy of the Rockies","2018",,"JPB","Unaffiliated","protocolQuiz",100
+"50f05539-0015-40e1-8a0b-e9cf42d22b95","Bird Conservancy of the Rockies","2018",,"JPB","Unaffiliated","startSeasonBirdQuiz",92
+"8f269e1c-80b8-4fe4-a057-714d3cc04540","Bird Conservancy of the Rockies","2018",,"MMCC","Bird Conservancy of the Rockies","endSeasonBirdQuiz",96
+"465747a0-45b0-4c10-9f72-a25f7a5cac07","Bird Conservancy of the Rockies","2018",,"CEBER","Unaffiliated","protocolQuiz",98
+"27525c88-0625-43f1-8195-608d33a597c6","Bird Conservancy of the Rockies","2018",,"CEBER","Unaffiliated","startSeasonBirdQuiz",92
+"c6cd2c57-c6b0-45fc-b474-8e89ea356079","Bird Conservancy of the Rockies","2018",,"MMCC","Bird Conservancy of the Rockies","protocolQuiz",100
+"abc66d72-309d-44b0-a903-a26a0131344c","Bird Conservancy of the Rockies","2018",,"NVL","Bird Conservancy of the Rockies","startSeasonBirdQuiz",100
+"e133b979-5ee2-408f-93af-b1b7850b09ba","Bird Conservancy of the Rockies","2018",,"NVL","Bird Conservancy of the Rockies","protocolQuiz",97
+"b30b6f25-199a-42c0-92ff-89430cb73d19","Bird Conservancy of the Rockies","2018",,"CEBER","Unaffiliated","endSeasonBirdQuiz",96
+"a9399d04-c799-4646-9983-2230b85358c4","Bird Conservancy of the Rockies","2018",,"CEBER","Unaffiliated","protocolQuiz",98
+"8c402b81-2e5f-48b1-8d44-032adc797580","Bird Conservancy of the Rockies","2018",,"BIREK","Pteravia LLC","startSeasonBirdQuiz",100
+"40881b2c-2628-4486-aab6-df55ce70ae4e","Bird Conservancy of the Rockies","2018",,"BIREK","Pteravia LLC","protocolQuiz",100
+"e5527dd9-a929-453c-b492-94aa3b4a8339","Bird Conservancy of the Rockies","2018",,"CEBER","Unaffiliated","protocolQuiz",98
+"1f15692d-ca3e-4dcc-96a3-b96b198c8cb2","Bird Conservancy of the Rockies","2018",,"GPLAZ","Unaffiliated","startSeasonBirdQuiz",100
+"4e7ba4de-9f32-49e7-a8fd-a07f93ac6987","Bird Conservancy of the Rockies","2018",,"GPLAZ","Unaffiliated","protocolQuiz",95
+"2c555ce5-014c-49ba-b12c-ce478311e4f8","Bird Conservancy of the Rockies","2018",,"BIREK","Pteravia LLC","protocolQuiz",100
+"d4cf1673-e65b-4973-9c37-795e458ebe73","Bird Conservancy of the Rockies","2018",,"BIREK","Pteravia LLC","midSeasonBirdQuiz",96
+"eaedc51c-19b7-4033-84cd-d79ef912c43a","Bird Conservancy of the Rockies","2018",,"CEBER","Unaffiliated","endSeasonBirdQuiz",95
+"424e17e7-1578-4c4a-85cf-f2dd8c84eb80","Bird Conservancy of the Rockies","2018",,"GREGL","Regalis LLC","protocolQuiz",100
+"159e74bb-7aa2-4003-a372-19415d5315ee","Bird Conservancy of the Rockies","2018",,"JRIDD","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",100
+"eef7cc87-1a71-4746-98fe-1631b47e74d4","Bird Conservancy of the Rockies","2018",,"JRIDD","University of Wisconsin - Stevens Point","protocolQuiz",92
+"78e26ef5-7ef6-44a9-9cb6-0d89c49b34a6","Bird Conservancy of the Rockies","2018",,"GREGL","Regalis LLC","startSeasonBirdQuiz",100
+"36fe6afb-8b59-4de4-abb2-b5646121f068","Bird Conservancy of the Rockies","2018",,"CEBER","Unaffiliated","protocolQuiz",98
+"2c3dffda-0a0a-4d57-ae66-2b94e7282bca","Bird Conservancy of the Rockies","2018",,"CEBER","Unaffiliated","endSeasonBirdQuiz",96
+"7ed6dcfc-5ec9-43d5-ad99-1986278b6a32","Bird Conservancy of the Rockies","2018",,"BSTUB","Bird Conservancy of the Rockies","startSeasonBirdQuiz",92
+"faeb21aa-2ba7-4c31-828f-77003e57ba26","Bird Conservancy of the Rockies","2018",,"BSTUB","Bird Conservancy of the Rockies","protocolQuiz",100
+"c5f255ec-f1dd-4060-ad8a-17f119b8949a","Bird Conservancy of the Rockies","2018",,"TWALK","Bird Conservancy of the Rockies","endSeasonBirdQuiz",96
+"1afa9215-e7a9-4e3a-858f-31c8e87ba715","Bird Conservancy of the Rockies","2018",,"TWALK","Bird Conservancy of the Rockies","protocolQuiz",100
+"e64f8783-44cc-420d-9256-bb75647a0630","Bird Conservancy of the Rockies","2018",,"RADIN","Bird Conservancy of the Rockies","protocolQuiz",95
+"36071c18-3499-4b7a-9106-abdf3972b654","Bird Conservancy of the Rockies","2018",,"WHERS","Point Blue Conservation Science","endSeasonBirdQuiz",92
+"7c94a4a9-f39e-4cba-9fa7-7707d2f28ab2","Bird Conservancy of the Rockies","2018",,"JGREG","Point Blue Conservation Science","endSeasonBirdQuiz",96
+"1fcaa00c-d578-4fd7-9692-0ca4c4c56de4","Bird Conservancy of the Rockies","2018",,"RADIN","Bird Conservancy of the Rockies","endSeasonBirdQuiz",92
+"62267780-aedc-4f54-a4ca-249eb0324513","Bird Conservancy of the Rockies","2018",,"WHERS","Point Blue Conservation Science","protocolQuiz",95
+"6ec73efc-2cce-49bf-ade7-19b1c7d01c23","Bird Conservancy of the Rockies","2018",,"JGREG","Point Blue Conservation Science","protocolQuiz",95
+"a415cc74-5196-49b7-8fc0-d5da92f5503b","Bird Conservancy of the Rockies","2018",,"WHERS","Point Blue Conservation Science","endSeasonBirdQuiz",100
+"1e20dc81-b230-4727-9a35-5becffee2b67","Bird Conservancy of the Rockies","2018",,"WHERS","Point Blue Conservation Science","protocolQuiz",95
+"ce1e6c73-e071-410b-bc07-3a8504ef57e1","Bird Conservancy of the Rockies","2018",,"MMYLI","University of Wisconsin - Stevens Point","protocolQuiz",92
+"b3ebe71a-1c68-439b-b44f-602673ad3322","Bird Conservancy of the Rockies","2018",,"MMYLI","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",92
+"90aced62-3db2-498b-b3cb-3afcdbf2d7f8","Bird Conservancy of the Rockies","2018",,"JRIDD","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",96
+"267ca7e8-ac23-4d22-910c-8d643cde570a","Bird Conservancy of the Rockies","2018",,"JRIDD","University of Wisconsin - Stevens Point","protocolQuiz",92
+"63dfe153-3496-48e6-9795-c6221b3e6c3e","Bird Conservancy of the Rockies","2018",,"LBRAD","Bird Conservancy of the Rockies","midSeasonBirdQuiz",96
+"2bca8bd6-3c62-42d1-aa88-2a58e239830b","Bird Conservancy of the Rockies","2018",,"BDEMO","Bird Conservancy of the Rockies","startSeasonBirdQuiz",100
+"69a72587-381d-4c0e-87c8-a020925238db","Bird Conservancy of the Rockies","2018",,"BIREK","Pteravia LLC","startSeasonBirdQuiz",92
+"3805bbe7-e39f-4cb2-9b2a-9b21447cc342","Bird Conservancy of the Rockies","2018",,"IRC","Unaffiliated","startSeasonBirdQuiz",92
+"ef50e32c-672b-4472-b6cd-4e56a9ad793d","Bird Conservancy of the Rockies","2018",,"DSAND","Bird Conservancy of the Rockies","startSeasonBirdQuiz",92
+"e3fd0a24-c13d-4721-9f44-3276022dfa5a","Bird Conservancy of the Rockies","2018",,"BDEMO","Bird Conservancy of the Rockies","protocolQuiz",97
+"a7fd6897-39ca-4cd5-b1e3-8c6e76070f7b","Bird Conservancy of the Rockies","2018",,"JPB","Unaffiliated","startSeasonBirdQuiz",92
+"c5f34e6f-7c04-46e9-8ca4-23d6bc9bff77","Bird Conservancy of the Rockies","2018",,"LBRAD","Bird Conservancy of the Rockies","protocolQuiz",95
+"9cd26743-05c9-4cb9-9ade-014133d0af6f","Bird Conservancy of the Rockies","2018",,"JPB","Unaffiliated","protocolQuiz",100
+"70580b6b-3da2-4a98-91f2-5281b4f6161b","Bird Conservancy of the Rockies","2018",,"SKURT","Conservation Management Institute at Virginia Tech University","startSeasonBirdQuiz",96
+"d2901aa1-f00e-4afc-b98f-fa57ddcbb0e2","Bird Conservancy of the Rockies","2018",,"BIREK","Pteravia LLC","protocolQuiz",100
+"93abdf57-38b0-4115-8515-c2b82f626c51","Bird Conservancy of the Rockies","2018",,"DSAND","Bird Conservancy of the Rockies","protocolQuiz",100
+"5a2c7cba-6d77-4ce8-ba0b-b630de4a3b67","Bird Conservancy of the Rockies","2018",,"MSTGE","Conservation Management Institute at Virginia Tech University","startSeasonBirdQuiz",92
+"f37688f8-467e-40b7-b2e6-22221813f3bc","Bird Conservancy of the Rockies","2018",,"MSTGE","Conservation Management Institute at Virginia Tech University","protocolQuiz",100
+"ed78b59c-d21c-4c28-bb32-35384346d098","Bird Conservancy of the Rockies","2018",,"SKURT","Conservation Management Institute at Virginia Tech University","protocolQuiz",100
+"e2ff6a39-eae3-44cf-971a-0daa4ffc491b","Bird Conservancy of the Rockies","2018",,"IRC","Unaffiliated","protocolQuiz",98
+"6c4ea6c5-6928-4ecb-a766-ce54ea1b76fd","Bird Conservancy of the Rockies","2018",,"JDIAZ","Unaffiliated","startSeasonBirdQuiz",92
+"957a9144-4f94-4b8f-b012-9d0982b49319","Bird Conservancy of the Rockies","2018",,"JDIAZ","Unaffiliated","protocolQuiz",89
+"65fdd76d-77ad-4e24-9d9d-dcbfa67c8958","Bird Conservancy of the Rockies","2018",,"JDIEN","Unaffiliated","protocolQuiz",81
+"93d84e38-bf61-4ffd-8c49-13df7d73cc3f","Bird Conservancy of the Rockies","2018",,"LDIEN","Unaffiliated","startSeasonBirdQuiz",96
+"2b5a3590-0c93-4765-8a01-d8b18581273a","Bird Conservancy of the Rockies","2018",,"TWALK","Bird Conservancy of the Rockies","startSeasonBirdQuiz",100
+"7e5462d5-2c96-4db7-901f-2f9ef71b735f","Bird Conservancy of the Rockies","2018",,"LDIEN","Unaffiliated","protocolQuiz",81
+"053db9ab-918d-4211-ad77-966343802a24","Bird Conservancy of the Rockies","2018",,"TWALK","Bird Conservancy of the Rockies","protocolQuiz",100
+"5b24d0e0-5edd-4b8e-a145-13d1159d1530","Bird Conservancy of the Rockies","2018",,"JDIEN","Unaffiliated","startSeasonBirdQuiz",100
+"10b5b152-b587-4808-bacb-08e71a97c88d","Bird Conservancy of the Rockies","2018",,"TWALK","Bird Conservancy of the Rockies","protocolQuiz",100
+"1b494e31-bdde-47f9-a254-bb58f6c1ece3","Bird Conservancy of the Rockies","2018",,"TWALK","Bird Conservancy of the Rockies","startSeasonBirdQuiz",100
+"d8358aa0-47fd-41f2-b203-b30bd5f41c2d","Bird Conservancy of the Rockies","2018",,"TWALK","Bird Conservancy of the Rockies","startSeasonBirdQuiz",92
+"7ff5075c-6101-4d73-a70c-b1da085ee235","Bird Conservancy of the Rockies","2018",,"JDIEN","Unaffiliated","startSeasonBirdQuiz",100
+"24cdbb26-63b3-4d60-815f-5a5109eaa070","Bird Conservancy of the Rockies","2018",,"LDIEN","Unaffiliated","startSeasonBirdQuiz",96
+"1f61e17a-de94-4d24-ad34-7c47ea3db3d7","Bird Conservancy of the Rockies","2018",,"MMCC","Bird Conservancy of the Rockies","endSeasonBirdQuiz",96
+"c6ecba7a-e4e4-4815-ba16-d31fc6610bc4","Bird Conservancy of the Rockies","2018",,"JDIEN","Unaffiliated","protocolQuiz",81
+"7ed9313d-6338-416f-9994-5a9f2be9ee59","Bird Conservancy of the Rockies","2018",,"BSTUB","Bird Conservancy of the Rockies","startSeasonBirdQuiz",92
+"972bb78e-28f3-4e0f-bd0c-5b5140dcf304","Bird Conservancy of the Rockies","2018",,"LDIEN","Unaffiliated","protocolQuiz",81
+"085e2568-dd7c-4cbe-8b1f-09b931b08843","Bird Conservancy of the Rockies","2018",,"BSTUB","Bird Conservancy of the Rockies","protocolQuiz",100
+"0351a887-1b65-4c94-93b5-c95fe71fe0a6","Bird Conservancy of the Rockies","2018",,"MMCC","Bird Conservancy of the Rockies","protocolQuiz",100
+"97de0c04-23bd-4cd0-a779-8a3a9402e2a3","Bird Conservancy of the Rockies","2018",,"TWALK","Bird Conservancy of the Rockies","protocolQuiz",100
+"aaf9c524-091c-4ded-8939-9009c8a6bfb3","Bird Conservancy of the Rockies","2018",,"CEBER","Unaffiliated","startSeasonBirdQuiz",92
+"a26774a4-4c7d-4629-bebe-340b9ab82c5b","Bird Conservancy of the Rockies","2018",,"CEBER","Unaffiliated","protocolQuiz",98
+"1d1b583c-7ef3-43a3-8153-24f626e93a22","Bird Conservancy of the Rockies","2018",,"JFOX","Smithsonian Conservation Biology Institution","startSeasonBirdQuiz",100
+"522ee41f-6d56-4123-a06b-bdb933e657e3","Bird Conservancy of the Rockies","2018",,"JFOX","Smithsonian Conservation Biology Institution","protocolQuiz",90
+"b34a2cf6-5447-4019-9730-290f3d9a51de","Bird Conservancy of the Rockies","2018",,"EFN","Unaffiliated","startSeasonBirdQuiz",92
+"d53e23d7-5963-4336-9106-066c18de5f74","Bird Conservancy of the Rockies","2018",,"EFN","Unaffiliated","protocolQuiz",84
+"deb0e712-95f7-4622-bc80-08e463fbbe07","Bird Conservancy of the Rockies","2018",,"ENEIP","Kingfischer Consulting","protocolQuiz",100
+"41f20853-6b06-43f4-a8a6-d88d16ff7f3a","Bird Conservancy of the Rockies","2018",,"ENEIP","Kingfischer Consulting","startSeasonBirdQuiz",96
+"454666b4-2bf4-4026-857c-46655a2832e8","Bird Conservancy of the Rockies","2018",,"MBROW","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",96
+"a4712215-b4c1-4e9e-b3f8-a8fcbbf0e829","Bird Conservancy of the Rockies","2018",,"MBROW","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",92
+"91124dbc-9891-4686-9ae8-45763f154216","Bird Conservancy of the Rockies","2018",,"MBROW","University of Wisconsin - Stevens Point","protocolQuiz",92
+"862d395c-47de-4a5f-8e3d-544b9b6ae8ef","Bird Conservancy of the Rockies","2018",,"MBROW","University of Wisconsin - Stevens Point","protocolQuiz",92
+"bed6a3b2-fb11-4913-a91e-276918139bbe","Bird Conservancy of the Rockies","2018",,"BIREK","Pteravia LLC","protocolQuiz",100
+"e80d0535-39d0-4cf8-9871-afc3eed1c217","Bird Conservancy of the Rockies","2018",,"JRUEB","Massachusetts Audubon Society","protocolQuiz",95
+"8302e59e-a7ff-4afe-bba1-1b3d9633d52f","Bird Conservancy of the Rockies","2018",,"MMYLI","University of Wisconsin - Stevens Point","protocolQuiz",92
+"9f4f5ab6-cfbb-4904-ac6c-546652e9c7ed","Bird Conservancy of the Rockies","2018",,"MMYLI","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",92
+"992127a4-7bb5-4017-a327-7afa4ce7f6d4","Bird Conservancy of the Rockies","2018",,"JRUEB","Massachusetts Audubon Society","startSeasonBirdQuiz",100
+"ea2aa1b6-b5ca-4a0f-9881-1c670d47afee","Bird Conservancy of the Rockies","2018",,"BIREK","Pteravia LLC","startSeasonBirdQuiz",92
+"6c27989c-8527-4cfe-b15f-0ed98adcfc17","Bird Conservancy of the Rockies","2017",,"ANDEB","Bird Conservancy of the Rockies","endSeasonBirdQuiz",100
+"095d922c-1e13-465f-9882-f79b9a769321","Bird Conservancy of the Rockies","2017",,"JDIAZ","Unaffiliated","endSeasonBirdQuiz",92
+"f7225b25-60a2-4551-b312-6c8c1f2f1745","Bird Conservancy of the Rockies","2017",,"JDIAZ","Unaffiliated","endSeasonBirdQuiz",92
+"d37fe0d7-70b4-488b-80db-0ea6e2e8a736","Bird Conservancy of the Rockies","2017",,"GPLAZ","Unaffiliated","endSeasonBirdQuiz",96
+"7be8f239-f129-41d6-be88-cd116353ee7f","Bird Conservancy of the Rockies","2017",,"GPLAZ","Unaffiliated","endSeasonBirdQuiz",96
+"74777563-d5c1-4f4b-9a13-cf4378ebe189","Bird Conservancy of the Rockies","2017",,"RFISC","Kingfischer Consulting","endSeasonBirdQuiz",92
+"f05fa533-d9f2-438e-83d1-785899124add","Bird Conservancy of the Rockies","2017",,"JFOX","Smithsonian Conservation Biology Institution","endSeasonBirdQuiz",92
+"f6ff3f48-8e1f-4b15-827c-49dee4838d91","Bird Conservancy of the Rockies","2017",,"RFISC","Kingfischer Consulting","endSeasonBirdQuiz",96
+"7c598208-c993-4bbf-9661-d5ae73824243","Bird Conservancy of the Rockies","2017",,"JRUEB","Massachusetts Audubon Society","endSeasonBirdQuiz",96
+"07619dc8-2ef8-47d0-b716-4ed8536aedab","Bird Conservancy of the Rockies","2017",,"JRUEB","Massachusetts Audubon Society","endSeasonBirdQuiz",96
+"5d535538-4f22-46bc-a598-aa4150f45005","Bird Conservancy of the Rockies","2017",,"ENEIP","Unaffiliated","endSeasonBirdQuiz",92
+"48f78e7f-3e24-496a-a478-eb327902c873","Bird Conservancy of the Rockies","2017",,"ENEIP","Unaffiliated","endSeasonBirdQuiz",92
+"1e82f24b-b5bd-4b13-bcff-d14d22bb1abe","Bird Conservancy of the Rockies","2017",,"ENEIP","Unaffiliated","endSeasonBirdQuiz",96
+"0464aaae-2f86-4aad-b43a-c9f31f00ca33","Bird Conservancy of the Rockies","2017",,"CEBER","Kingfischer Consulting","endSeasonBirdQuiz",92
+"fe093c3c-c727-42c2-9cb7-332aa57a4671","Bird Conservancy of the Rockies","2017",,"CEBER","Unaffiliated","endSeasonBirdQuiz",100
+"47249dde-d37e-45d0-a7d0-ca0e6043eac7","Bird Conservancy of the Rockies","2017",,"CEBER","Unaffiliated","endSeasonBirdQuiz",96
+"9eccbdc3-bae8-4a96-8a9b-6626007ae827","Bird Conservancy of the Rockies","2017",,"JTIET","Point Blue Conservation Science","endSeasonBirdQuiz",100
+"8cd5941f-b61a-4418-9262-027fffc2e463","Bird Conservancy of the Rockies","2017",,"JTIET","Point Blue Conservation Science","endSeasonBirdQuiz",100
+"40416a28-0432-4872-a25a-82fa2a8c8e1b","Bird Conservancy of the Rockies","2017",,"EELIA","Point Blue Conservation Science","endSeasonBirdQuiz",100
+"f1f15c50-7868-4343-9b72-fa169b9076bc","Bird Conservancy of the Rockies","2017",,"EELIA","Point Blue Conservation Science","endSeasonBirdQuiz",100
+"3bac2239-d687-43ec-a53b-084b050b269c","Bird Conservancy of the Rockies","2017",,"EELIA","Kingfischer Consulting","endSeasonBirdQuiz",96
+"ddcca52c-91bd-4afa-90fd-32c4de513dfb","Bird Conservancy of the Rockies","2017",,"DKRMR","Bird Conservancy of the Rockies","startSeasonBirdQuiz",96
+"b80d0e8e-783a-40d3-9582-74590787faa3","Bird Conservancy of the Rockies","2017",,"JSEUF","Bird Conservancy of the Rockies","endSeasonBirdQuiz",96
+"217c0470-b5af-420b-adeb-704f808e2c3f","Bird Conservancy of the Rockies","2017",,"JSEUF","Bird Conservancy of the Rockies","midSeasonBirdQuiz",96
+"fd90a46a-2621-40d3-a1bc-796630e6e093","Bird Conservancy of the Rockies","2017",,"JSEUF","Bird Conservancy of the Rockies","startSeasonBirdQuiz",96
+"94619656-a658-465e-abc1-e434a8c44e7a","Bird Conservancy of the Rockies","2017",,"TBELL","Smithsonian Conservation Biology Institution","endSeasonBirdQuiz",92
+"caecbfa1-75b7-457e-80e4-3f09951d0aef","Bird Conservancy of the Rockies","2017",,"ANDEB","Bird Conservancy of the Rockies","startSeasonBirdQuiz",96
+"496a3db5-1c23-4022-a816-a08b66c7c202","Bird Conservancy of the Rockies","2017",,"MMCC","Bird Conservancy of the Rockies","startSeasonBirdQuiz",92
+"66fd27d2-f979-46bb-b827-ce138a053f8a","Bird Conservancy of the Rockies","2017",,"JFOX","Smithsonian Conservation Biology Institution","endSeasonBirdQuiz",96
+"da66fa0a-deab-4604-bf2c-5604f4545142","Bird Conservancy of the Rockies","2017",,"DKRMR","Bird Conservancy of the Rockies","startSeasonBirdQuiz",96
+"45c33541-0a23-4e1e-876c-5dea7ce1279b","Bird Conservancy of the Rockies","2017",,"EFN","Unaffiliated","endSeasonBirdQuiz",92
+"652d7333-ec03-4f15-95f9-8faa2f0e932b","Bird Conservancy of the Rockies","2017",,"IRC","Unaffiliated","endSeasonBirdQuiz",92
+"20f42fcc-1990-4cf1-be29-bfc50f244020","Bird Conservancy of the Rockies","2017",,"IRC","Unaffiliated","endSeasonBirdQuiz",100
+"eb7fb127-b02c-46be-97e8-4d6bc72cc4ed","Bird Conservancy of the Rockies","2017",,"SLAU","University of Wisconsin - Stevens Point","midSeasonBirdQuiz",92
+"b71b6d9d-d7a9-46b1-a761-e8623b091f1c","Bird Conservancy of the Rockies","2017",,"JDIEN","Unaffiliated","startSeasonBirdQuiz",92
+"5d3b2d8b-25ef-46a4-ba09-b5f8e488e15a","Bird Conservancy of the Rockies","2017",,"LDIEN","Unaffiliated","startSeasonBirdQuiz",96
+"ebd63896-af1b-4a91-bcfd-021e2171310b","Bird Conservancy of the Rockies","2017",,"LDIEN","Unaffiliated","startSeasonBirdQuiz",100
+"71ab310f-b687-43c2-ad60-5bb5a1797bd1","Bird Conservancy of the Rockies","2017",,"JDIEN","Unaffiliated","startSeasonBirdQuiz",96
+"73150057-b310-4787-8f22-1783d003a43b","Bird Conservancy of the Rockies","2017",,"AHANC","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",92
+"d6d06db0-e8e1-4544-bb06-bdd6584c8d8d","Bird Conservancy of the Rockies","2017",,"AHANC","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",92
+"52af5d04-9001-4862-b9ea-4cf542d9412a","Bird Conservancy of the Rockies","2017",,"SLAU","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",92
+"21a5d24a-e564-40df-8c48-a7df7aa697b0","Bird Conservancy of the Rockies","2017",,"LDIEN","Unaffiliated","startSeasonBirdQuiz",96
+"c834c8a9-37da-4d17-9f78-ae2cda855104","Bird Conservancy of the Rockies","2017",,"JDIEN","Unaffiliated","startSeasonBirdQuiz",96
+"6f35c1da-0760-4e76-92d5-6688574f3e9e","Bird Conservancy of the Rockies","2017",,"LDIEN","Unaffiliated","endSeasonBirdQuiz",96
+"2aa5667f-221e-41f9-91ea-49ed558cdfb1","Bird Conservancy of the Rockies","2017",,"JRIDD","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",92
+"0742efe1-5f3a-418e-ba84-9be0d6a2498f","Bird Conservancy of the Rockies","2017",,"JDIEN","Unaffiliated","endSeasonBirdQuiz",96
+"d8cb7586-a06b-45d9-be71-c9d416bf8564","Bird Conservancy of the Rockies","2017",,"JRIDD","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",92
+"fab27741-de0a-45f8-a474-804e5b942755","Bird Conservancy of the Rockies","2017",,"JRIDD","University of Wisconsin - Stevens Point","startSeasonBirdQuiz",96
+"5b78fbd2-1f28-4222-aba2-7f48d950d986","Bird Conservancy of the Rockies","2017",,"LDIEN","Unaffiliated","midSeasonBirdQuiz",92
+"0c6b0bd4-8f94-4f00-8626-c628e9bce64d","Bird Conservancy of the Rockies","2017",,"JDIEN","Unaffiliated","midSeasonBirdQuiz",100
+"39994952-1e48-43ba-af84-2c6c104752ad","Bird Conservancy of the Rockies","2017",,"JDEST","Klamath Bird Observatory","startSeasonBirdQuiz",100
+"72d354fc-5238-4bc5-9024-f1bcc764a2dd","Bird Conservancy of the Rockies","2017",,"JSEUF","Bird Conservancy of the Rockies","startSeasonBirdQuiz",100
+"2c4fd546-5ef6-4e6c-827c-0160fb73e8f8","Bird Conservancy of the Rockies","2017",,"AVANB","Bird Conservancy of the Rockies","startSeasonBirdQuiz",100
+"6852028f-d350-4cd7-8353-4739efa42f4a","Bird Conservancy of the Rockies","2017",,"RAS","Bird Conservancy of the Rockies","startSeasonBirdQuiz",92
+"4088c35c-6c29-4669-8025-5d6917f9ced3","Bird Conservancy of the Rockies","2017",,"NCOVY","Bird Conservancy of the Rockies","startSeasonBirdQuiz",92
+"8c3fabfb-dff4-4607-8e71-4f68e05d6491","Bird Conservancy of the Rockies","2017",,"RADIN","Bird Conservancy of the Rockies","startSeasonBirdQuiz",96
+"64f8957c-1f66-4f98-b6e6-58ede3059ca8","Bird Conservancy of the Rockies","2017",,"MMCC","Bird Conservancy of the Rockies","startSeasonBirdQuiz",96
+"02143cc6-e4a5-4c10-9d68-e438f0336051","Bird Conservancy of the Rockies","2017",,"MMCC","Bird Conservancy of the Rockies","startSeasonBirdQuiz",100
+"321dc41e-928b-46ff-8c1e-57aa1dea2feb","Bird Conservancy of the Rockies","2017",,"MMCC","Bird Conservancy of the Rockies","startSeasonBirdQuiz",96
+"c0b12cb9-e89a-460e-98e0-da4a55038f35","Bird Conservancy of the Rockies","2017",,"MMCC","Bird Conservancy of the Rockies","startSeasonBirdQuiz",92
+"a0b050bf-cb4a-46f2-99e6-ad5923af8da3","Bird Conservancy of the Rockies","2017",,"MMCC","Bird Conservancy of the Rockies","startSeasonBirdQuiz",100
+"fe76f2b3-e9d2-45ec-ad78-a56301bcdac0","Bird Conservancy of the Rockies","2016",,"RFISC","Other","startSeasonBirdQuiz",95
+"c48bf31e-8f02-4e84-bc5e-adca0700f341","Bird Conservancy of the Rockies","2016",,"EBEAV","Other","startSeasonBirdQuiz",90
+"d0a27b8b-7ec3-4b80-9708-df3523d98529","Bird Conservancy of the Rockies","2016",,"JRITT","Massachusetts Audubon Society","startSeasonBirdQuiz",93
+"718ede2d-db3e-484b-af04-2d984f7b83db","Bird Conservancy of the Rockies","2016",,"JRIDD","Other","startSeasonBirdQuiz",90
+"dd56822f-3254-4ff5-aac1-d26abf4aa395","Bird Conservancy of the Rockies","2016",,"JFOX","Other","startSeasonBirdQuiz",96
+"f403d093-6e8e-4943-bd3c-7a923517cadb","Bird Conservancy of the Rockies","2016",,"JDIEN","Other","startSeasonBirdQuiz",93
+"fd256f02-f0dc-4c47-998c-5622fedc9369","Bird Conservancy of the Rockies","2016",,"LDIEN","Other","startSeasonBirdQuiz",90
+"39c2de35-bd23-473b-a588-b58b08cb197a","Bird Conservancy of the Rockies","2016",,"CEBER","Other","startSeasonBirdQuiz",95
+"dc80686f-9f32-45aa-ac0e-3b0f8357f16e","Bird Conservancy of the Rockies","2016",,"LDERD","Bird Conservancy of the Rockies","startSeasonBirdQuiz",95
+"829091d1-224d-4e85-80e6-d017dd33a2fd","Bird Conservancy of the Rockies","2015",,"IRC","None",,
+"6f4500e2-3738-4575-a9d6-ba809679fabb","Bird Conservancy of the Rockies","2015",,"CGRAY","Rocky Mountain Bird Observatory",,
+"34f6ce5b-5bd4-47fb-b007-d9d9e8f64f2f","Bird Conservancy of the Rockies","2015",,"JRUEB","Massachusetts Audubon Society",,
+"284c22e5-c0c9-4a3a-8d43-0bbf8c22d3b1","Bird Conservancy of the Rockies","2015",,"LDERD","Rocky Mountain Bird Observatory",,
+"ad4f9fb1-d179-4f10-9d18-5641328471d0","Bird Conservancy of the Rockies","2015",,"BSCHN","Conservation Management Institute at Virginia Tech University",,
+"a797f804-cd4c-4785-bfa3-1f55d9e0f17e","Bird Conservancy of the Rockies","2015",,"MCARL","Rocky Mountain Bird Observatory",,
+"b815c697-e0a6-481c-a9b4-c678647b0c6c","Bird Conservancy of the Rockies","2015",,"CEBER","None",,
+"942f230f-150a-4ded-8bca-328af8def321","Bird Conservancy of the Rockies","2015",,"TBRO","Rocky Mountain Bird Observatory",,
+"645218c6-1c98-483e-b91b-dcc4f59f28f6","Bird Conservancy of the Rockies","2015",,"JOLSE","Rocky Mountain Bird Observatory",,
+"d2927c56-3af5-4672-8170-f2c72b1452a5","Bird Conservancy of the Rockies","2015",,"GHILL","None",,
+"873a3b06-85db-492c-a175-eff0da53ef32","Bird Conservancy of the Rockies","2013",,"LDERD","Rocky Mountain Bird Observatory",,
+"11ed0c29-691b-423f-babf-499ad66bcfdf","Bird Conservancy of the Rockies","2013",,"JSMIT","Rocky Mountain Bird Observatory",,
+"b3534495-ce3b-4a77-9403-3ea782958e9d","Bird Conservancy of the Rockies","2013",,"MAMCL","Rocky Mountain Bird Observatory",,
