@@ -2,3 +2,7 @@
   name: bagit
   extension: txt
   type: files
+- path: 0729934ab69a476a0d6be0b3954e2ebdbd76662df198ac7c002e8cd4b7628864
+  name: 0729934ab69a476a0d6be0b3954e2ebdbd76662df198ac7c002e8cd4b7628864
+  extension: ''
+  type: files
