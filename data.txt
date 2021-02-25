@@ -194,3 +194,7 @@
   name: manifest_sha256
   extension: txt
   type: files
+- path: registry
+  name: registry
+  extension: tsv
+  type: files
