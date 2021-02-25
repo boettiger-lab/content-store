@@ -1,0 +1,5 @@
+path: manifest-sha256.txt
+extension: txt
+type: files
+filenames:
+  manifest-sha256.txt: manifest-sha256.txt
