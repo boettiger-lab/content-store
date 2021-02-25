@@ -1,0 +1,5 @@
+path: https://api.github.com/repos/boettiger-lab/content-store/releases/assets/32634671
+extension: ''
+type: files
+filenames:
+  https://api.github.com/repos/boettiger-lab/content-store/releases/assets/32634671: 2fba4f4abbbeb3a748bdc1047b59d88ebd8dddbf3cf0f3a5fcbd48c8877fed54
