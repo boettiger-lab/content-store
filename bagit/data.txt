@@ -1,0 +1,5 @@
+path: bagit.txt
+extension: txt
+type: files
+filenames:
+  bagit.txt: bagit.txt

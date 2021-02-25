@@ -1,0 +1,4 @@
+- path: bagit
+  name: bagit
+  extension: txt
+  type: files
